@@ -1,0 +1,9 @@
+{
+  "generator-regextxt": {
+    "promptValues": {
+      "filesToTransformDirectory": "./generators/files/test-transform-dir",
+      "filesToTransformSelectionRegex": "/^.+.txt$/g",
+      "transformsJson": "./generators/files/test-transform-dir/transforms.json"
+    }
+  }
+}

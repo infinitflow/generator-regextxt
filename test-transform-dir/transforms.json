@@ -1,0 +1,20 @@
+[{
+    "name": "remove empty lines",
+    "regex": "/$\\s*^\\s/gm",
+    "replaceValue": ""
+},
+{
+    "name": "remove lines starting with: /// ",
+    "regex": "/\/\/\/ .+/g",
+    "replaceValue": ""
+},
+{
+    "name": "remove C# prop implementation",
+    "regex": "/ \\{ get; set; \\}/g",
+    "replaceValue": ""
+},
+{
+    "name": "remove C# public access modifier",
+    "regex": "/public /g",
+    "replaceValue": ""
+}]

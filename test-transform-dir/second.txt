@@ -1,0 +1,34 @@
+file: second.txt
+
+/// comment 
+/// comment 2
+public int TestProp { get; set; }
+
+/// comment 
+/// comment 2
+public int TestProp { get; set; }
+
+
+/// comment 
+/// comment 2
+public int TestProp { get; set; }
+
+
+
+
+
+
+
+
+
+
+/// comment 
+/// comment 2
+public int TestProp { get; set; }
+
+
+
+
+/// comment 
+/// comment 2
+public int TestProp { get; set; }

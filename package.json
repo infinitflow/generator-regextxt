@@ -1,0 +1,18 @@
+{
+    "name": "generator-regextxt",
+    "version": "0.1.0",
+    "description": "Transforms input text files by applying a sequence of regex transforms defined on a json file",
+    "files": [
+        "generators"
+    ],
+    "keywords": [
+        "yeoman-generator"
+    ],
+    "dependencies": {
+        "file": "^0.2.2",
+        "lodash": "^4.17.11",
+        "readjson": "^1.1.4",
+        "regex-parser": "^2.2.10",
+        "yeoman-generator": "^1.1.1"
+    }
+}
